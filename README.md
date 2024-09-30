@@ -15,7 +15,7 @@ edge detection, gamma correction, histogram equalization, brightness adjustment,
 - **Optimized Hardware Utilization:** Enable the application to effectively utilize CPU, GPU, or both, maximizing performance based on available hardware.
 
 ## Functionalities
-1. **Noise Reduction (Denoising)**
+1. **Noise Reduction (Denoising) Gaussian Blur**
 2. **Brightness Adjustment**
 3. **Contrast Enhancement**
 4. **Color Correction**
